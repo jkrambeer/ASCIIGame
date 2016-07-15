@@ -1,0 +1,5 @@
+﻿Tile:
+0 0 You_are_at_A 1 1 0 9087
+Move:
+12 0 You_have_been_moved_to_map0 12 144 0
+End

@@ -1,0 +1,9 @@
+﻿Tile:
+12 60 You_crossed_the_bridge 12 59 0 -1
+Tile:
+12 59 You_almost_crossed_the_bridge 12 60 0 0
+Move:
+12 42 You_have_been_moved_to_somewhere_else 1 1 -1
+Move:
+12 145 You_have_been_moved_to_map1 12 1 1
+End
